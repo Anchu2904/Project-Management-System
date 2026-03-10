@@ -1,4 +1,4 @@
-# River Ops Tracker
+#Team Ops Tracker
 
 A lightweight, in-house project management tool built for River.com IT Ops teams. Designed for daily planning, unplanned-work logging, task handoff tracking, and manager standup dashboards.
 
